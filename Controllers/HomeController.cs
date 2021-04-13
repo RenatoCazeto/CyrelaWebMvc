@@ -24,7 +24,8 @@ namespace CyrelaWebMvc.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "suporte@cyrela.com.br";
+            
 
             return View();
         }

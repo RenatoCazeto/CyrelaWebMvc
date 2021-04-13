@@ -33,3 +33,8 @@ D:\Cyrela\CyrelaWebMvc\CyrelaWebMvc\obj\Debug\netcoreapp2.1\CyrelaWebMvc.dll
 D:\Cyrela\CyrelaWebMvc\CyrelaWebMvc\obj\Debug\netcoreapp2.1\CyrelaWebMvc.pdb
 D:\Cyrela\CyrelaWebMvc\CyrelaWebMvc\obj\Debug\netcoreapp2.1\CyrelaWebMvc.genruntimeconfig.cache
 D:\Cyrela\CyrelaWebMvc\CyrelaWebMvc\obj\Debug\netcoreapp2.1\CyrelaWebMvc.csproj.CopyComplete
+D:\Cyrela\CyrelaWebMvc\CyrelaWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Create.cshtml.g.cs
+D:\Cyrela\CyrelaWebMvc\CyrelaWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Delete.cshtml.g.cs
+D:\Cyrela\CyrelaWebMvc\CyrelaWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Details.cshtml.g.cs
+D:\Cyrela\CyrelaWebMvc\CyrelaWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Edit.cshtml.g.cs
+D:\Cyrela\CyrelaWebMvc\CyrelaWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentoes\Index.cshtml.g.cs
